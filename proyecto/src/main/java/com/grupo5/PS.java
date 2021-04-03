@@ -27,7 +27,7 @@ public class PS {
     public static void main(String[] args) {
 
         try {
-            Scanner input = new Scanner(new File("requerimientos.txt"));
+            Scanner input = new Scanner(new File("/home/saropi/Trabajo/distribuidos/sistemas_distribuidos/proyecto/requerimientos.txt"));
             while (input.hasNextLine()) {
                 String line = input.nextLine();
                 sendMessage(line);
