@@ -37,7 +37,7 @@ class ActorRenovacion {
         long pos = 0;
         RandomAccessFile fichero = null;
         try {
-            archivo = new File("BD.txt");
+            archivo = new File("/home/saropi/Trabajo/sistemas_distribuidos/proyecto/DB.txt");
             fichero = new RandomAccessFile(archivo, "rw");
 
             // Lectura del fichero
@@ -53,11 +53,13 @@ class ActorRenovacion {
                 StringTokenizer sscanf = new StringTokenizer(linea, " ");
                 if (sscanf.hasMoreTokens()) {
                     nombre = sscanf.nextToken();
-                    id = sscanf.nextToken();
-                    if (id.equals(codigoLibroRenovar)) {
-                        fichero.seek(pos);
+                    if (sscanf.hasMoreTokens()) {
+                        id = sscanf.nextToken();
+                        if (id.equals(codigoLibroRenovar)) {
+                            fichero.seek(pos);
 
-                        fichero.writeBytes(nombre + " " + id + " 1 " + objSDF.format(dt_1));
+                            fichero.writeBytes(nombre + " " + id + " 1 " + objSDF.format(dt_1));
+                        }
                     }
                     pos = fichero.getFilePointer();
                 }

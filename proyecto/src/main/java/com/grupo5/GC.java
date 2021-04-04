@@ -13,7 +13,7 @@ public class GC {
         // Socket to talk to clients
         ZMQ.Socket socket = context.createSocket(SocketType.REP);
         ZMQ.Socket publisher = context2.createSocket(SocketType.PUB);
-        socket.bind("tcp://*:5553");
+        socket.bind("tcp://192.168.0.23:5553");
         publisher.bind("tcp://*:5554");
         while (!Thread.currentThread().isInterrupted()) {
           byte[] reply = socket.recv(0);

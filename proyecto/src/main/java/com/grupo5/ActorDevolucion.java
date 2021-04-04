@@ -39,7 +39,7 @@ class ActorDevolucion {
         long pos = 0;
         RandomAccessFile fichero = null;
         try {
-            archivo = new File("BD.txt");
+            archivo = new File("/home/saropi/Trabajo/sistemas_distribuidos/proyecto/DB.txt");
             fichero = new RandomAccessFile(archivo, "rw");
 
             // Lectura del fichero
