@@ -1,0 +1,100 @@
+harryPotter1 401 1 22-may.-2021
+harryPotter1 402 1 22-may.-2021
+harryPotter1 403 1 22-may.-2021
+harryPotter1 404 1 22-may.-2021
+harryPotter2 406 1 22-may.-2021
+harryPotter1 405 1 22-may.-2021
+harryPotter2 407 1 15-may.-2021
+harryPotter2 409 0         
+harryPotter2 408 1 22-may.-2021
+harryPotter3 410 1 15-may.-2021
+harryPotter3 411 0
+harryPotter3 412 1 15-may.-2021
+harryPotter3 413 1 15-may.-2021
+harryPotter4 415 1 15-may.-2021
+harryPotter4 414 1 15-may.-2021
+harryPotter4 416 1 15-may.-2021
+harryPotter4 417 1 15-may.-2021
+harryPotter4 418 1 15-may.-2021
+harryPotter4 419 1 15-may.-2021
+harryPotter5 420 1 15-may.-2021
+harryPotter5 422 1 15-may.-2021
+harryPotter5 421 0
+harryPotter5 423 1 15-may.-2021
+harryPotter5 424 1 15-may.-2021
+harryPotter6 425 1 15-may.-2021
+harryPotter6 426 1 15-may.-2021
+harryPotter6 427 1 15-may.-2021
+harryPotter6 428 1 15-may.-2021
+harryPotter6 429 1 15-may.-2021
+harryPotter7 430 1 15-may.-2021
+harryPotter7 431 0
+harryPotter7 432 1 15-may.-2021
+harryPotter7 434 1 15-may.-2021
+harryPotter7 433 1 15-may.-2021
+señorDeLosAnillos1 435 1 15-may.-2021
+señorDeLosAnillos1 436 1 15-may.-2021
+señorDeLosAnillos1 437 1 15-may.-2021
+señorDeLosAnillos1 439 1 15-may.-2021
+señorDeLosAnillos1 438 1 15-may.-2021
+señorDeLosAnillos1 440 1 15-may.-2021
+señorDeLosAnillos2 441 0
+señorDeLosAnillos2 442 0
+señorDeLosAnillos2 443 1 15-may.-2021
+señorDeLosAnillos2 444 1 15-may.-2021
+señorDeLosAnillos2 445 1 15-may.-2021
+señorDeLosAnillos2 446 1 15-may.-2021
+señorDeLosAnillos3 447 1 15-may.-2021
+señorDeLosAnillos3 448 1 15-may.-2021
+señorDeLosAnillos3 449 1 15-may.-2021
+señorDeLosAnillos3 450 1 15-may.-2021
+harryPotter1 451 1 22-may.-2021
+harryPotter1 452 1 22-may.-2021
+harryPotter1 453 1 22-may.-2021
+harryPotter1 454 1 22-may.-2021
+harryPotter2 456 1 22-may.-2021
+harryPotter1 455 1 22-may.-2021
+harryPotter2 457 1 15-may.-2021
+harryPotter2 459 0         
+harryPotter2 458 1 22-may.-2021
+harryPotter3 460 1 15-may.-2021
+harryPotter3 461 0
+harryPotter3 462 1 15-may.-2021
+harryPotter3 463 1 15-may.-2021
+harryPotter4 465 1 15-may.-2021
+harryPotter4 464 1 15-may.-2021
+harryPotter4 466 1 15-may.-2021
+harryPotter4 467 1 15-may.-2021
+harryPotter4 468 1 15-may.-2021
+harryPotter4 469 1 15-may.-2021
+harryPotter5 470 1 15-may.-2021
+harryPotter5 472 1 15-may.-2021
+harryPotter5 471 0
+harryPotter5 473 1 15-may.-2021
+harryPotter5 474 1 15-may.-2021
+harryPotter6 475 1 15-may.-2021
+harryPotter6 476 1 15-may.-2021
+harryPotter6 477 1 15-may.-2021
+harryPotter6 478 1 15-may.-2021
+harryPotter6 479 1 15-may.-2021
+harryPotter7 480 1 15-may.-2021
+harryPotter7 481 0
+harryPotter7 482 1 15-may.-2021
+harryPotter7 484 1 15-may.-2021
+harryPotter7 483 1 15-may.-2021
+señorDeLosAnillos1 485 1 15-may.-2021
+señorDeLosAnillos1 486 1 15-may.-2021
+señorDeLosAnillos1 487 1 15-may.-2021
+señorDeLosAnillos1 489 1 15-may.-2021
+señorDeLosAnillos1 488 1 15-may.-2021
+señorDeLosAnillos1 490 1 15-may.-2021
+señorDeLosAnillos2 491 0
+señorDeLosAnillos2 492 0
+señorDeLosAnillos2 493 1 15-may.-2021
+señorDeLosAnillos2 494 1 15-may.-2021
+señorDeLosAnillos2 495 1 15-may.-2021
+señorDeLosAnillos2 496 1 15-may.-2021
+señorDeLosAnillos3 497 1 15-may.-2021
+señorDeLosAnillos3 498 1 15-may.-2021
+señorDeLosAnillos3 499 1 15-may.-2021
+señorDeLosAnillos3 500 1 15-may.-2021

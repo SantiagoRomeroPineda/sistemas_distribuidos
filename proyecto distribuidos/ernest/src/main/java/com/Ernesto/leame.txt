@@ -1,0 +1,15 @@
+COMPILACIÓN
+	javac *.java
+GENERACIÓN DE LOS ESQUELETOS
+	rmic BibliotecaImpl
+COPIAR 
+	BibliotecaImpl_StubClass e interfaz remota a clientes
+REGISTRO RMI
+	rmiregistry 1099
+EJECUCIÓN DEL SERVIDOR
+	java Server
+EJECUCIÓN DEL CLIENTEr 
+	java Client <Host_Servidor>
+EJEMPLO DE PEDIR PRESTAMO 
+	harryPotter4
+Nota: todas las fechas se ponen al 1 de nov
