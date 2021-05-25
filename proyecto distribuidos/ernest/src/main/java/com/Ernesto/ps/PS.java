@@ -46,14 +46,26 @@ public class PS {
     }
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        String solicitud;
-        while(true){
-            System.out.print("Ingrese peticion ");
-            solicitud = sc.nextLine();
-            sendMessage(solicitud);
-            
+        try {
+            Scanner input = new Scanner(new File("requerimientos.txt"));
+            while (input.hasNextLine()) {
+                String line = input.nextLine();
+                System.out.println(line);
+                sendMessage(line);
+            }
+            input.close();
+        } catch (Exception ex) {
+            ex.printStackTrace();
         }
+        
+        // Scanner sc = new Scanner(System.in);
+        // String solicitud;
+        // while(true){
+        //     System.out.print("Ingrese peticion ");
+        //     solicitud = sc.nextLine();
+        //     sendMessage(solicitud);
+            
+        // }
 
     }
 }
